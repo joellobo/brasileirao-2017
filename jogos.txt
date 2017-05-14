@@ -1,0 +1,38 @@
+01R Flamengo    1 Atlético-MG 1
+02R Atlético-GO   Flamengo
+03R Atlético-PR   Flamengo
+04R Flamengo      Botafogo
+05R Sport         Flamengo
+06R Avaí          Flamengo
+07R Flamengo      Ponte Preta
+08R Fluminense    Flamengo
+09R Flamengo      Chapecoense
+10R Bahia         Flamengo
+11R Flamengo      São Paulo
+12R Vasco         Flamengo
+13R Flamengo      Grêmio
+14R Cruzeiro      Flamengo
+15R Flamengo      Palmeiras
+16R Flamengo      Coritiba
+17R Corinthians   Flamengo
+18R Santos        Flamengo
+19R Flamengo      Vitória
+20R Atlético-MG   Flamengo
+21R Flamengo      Atlético-GO  
+22R Flamengo      Atlético-PR  
+23R Botafogo      Flamengo     
+24R Flamengo      Sport        
+25R Flamengo      Avaí         
+26R Ponte Preta   Flamengo     
+27R Flamengo      Fluminense   
+28R Chapecoense   Flamengo     
+29R Flamengo      Bahia       
+30R São Paulo     Flamengo    
+31R Flamengo      Vasco       
+32R Grêmio        Flamengo    
+33R Flamengo      Cruzeiro    
+34R Palmeiras     Flamengo    
+35R Coritiba      Flamengo    
+36R Flamengo      Corinthians 
+37R Flamengo      Santos      
+38R Vitória       Flamengo 
